@@ -1,3 +1,6 @@
+Note: this was a github fork from 2012, adding features to the Mongo cookbook.  
+It's no longer maintained, check with Chef Supermarket for the latest Mongo.
+
 See README.md.orig
 
 This is a Chef recipe to install MongoDB based on edelight.  
